@@ -1,0 +1,7 @@
+Django==5.0.6
+numpy>=1.24,<3
+scikit-learn>=1.3,<2
+pillow>=10,<12
+# Using both tensorflow.keras and standalone keras; include both for compatibility
+tensorflow>=2.13,<3
+keras>=2.13,<3 
